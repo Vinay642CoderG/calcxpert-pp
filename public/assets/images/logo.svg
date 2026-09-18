@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded square background -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#logoGradient)"/>
+  <!-- Calculator body -->
+  <rect x="16" y="12" width="32" height="40" rx="6" fill="#ffffff"/>
+  <!-- Display screen -->
+  <rect x="20" y="16" width="24" height="10" rx="3" fill="#dbeafe"/>
+  <!-- Display text line -->
+  <rect x="22" y="20" width="12" height="2.5" rx="1.25" fill="#2563eb" opacity="0.6"/>
+  <!-- Buttons row 1 -->
+  <circle cx="24" cy="32" r="3" fill="#2563eb"/>
+  <circle cx="32" cy="32" r="3" fill="#8b5cf6"/>
+  <circle cx="40" cy="32" r="3" fill="#14b8a6"/>
+  <!-- Buttons row 2 -->
+  <circle cx="24" cy="40" r="3" fill="#2563eb"/>
+  <circle cx="32" cy="40" r="3" fill="#8b5cf6"/>
+  <circle cx="40" cy="40" r="3" fill="#14b8a6"/>
+  <!-- Buttons row 3 -->
+  <circle cx="24" cy="48" r="3" fill="#2563eb"/>
+  <circle cx="32" cy="48" r="3" fill="#8b5cf6"/>
+  <circle cx="40" cy="48" r="3" fill="#14b8a6"/>
+</svg>

@@ -1,0 +1,9 @@
+[
+  {
+    "title": "BMI Calculator",
+    "slug": "bmi",
+    "category": "Health",
+    "url": "/calculators/health/bmi",
+    "keywords": ["bmi", "body mass index", "health", "weight", "height"]
+  }
+]
